@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Mayank Srivastav
 
 💻 Passionate about coding and problem-solving  
-🚀 Exploring Data Structures, Algorithms, and Web Development.
+🚀 Exploring Data Structures, Algorithms, and Web Development
 🌱 Open to collaboration on interesting projects  
 
 ---
