@@ -2,6 +2,7 @@
 
 💻 Passionate about coding and problem-solving  
 🚀 Exploring Data Structures, Algorithms, and Web Development
+
 🌱 Open to collaboration on interesting projects  
 
 ---
